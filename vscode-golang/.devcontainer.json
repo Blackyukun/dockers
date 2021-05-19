@@ -1,0 +1,11 @@
+{
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "golang.go",
+    "github.github-vscode-theme"
+  ],
+  "settings": {
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "GitHub Dark Default"
+  }
+}
